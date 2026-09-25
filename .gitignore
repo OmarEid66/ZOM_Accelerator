@@ -1,0 +1,27 @@
+# Vivado temporary & generated files
+*.jou
+*.log
+*.str
+*.pb
+*.dcp
+*.wdb
+*.vcd
+*.saif
+.Xil/
+xsim.dir/
+hd_visual/
+usage_statistics_webtalk.html
+usage_statistics_webtalk.xml
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Simulation test vector memory dumps (regenerate with Model/conv.py)
+*.mem
+
+# OS Files
+.DS_Store
+Thumbs.db
